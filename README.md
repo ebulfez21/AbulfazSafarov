@@ -15,8 +15,14 @@
 
 I am Abulfaz Safarov, I was born on February 2, 1994 in the village of Nehram, Nakhchivan Autonomous Republic. In 2015, I graduated from the Faculty of Finance of Tafakkur University. In 2022, I improved my manual control skills by studying QA (Quality Assurance) test. I further developed my skills by studying Frontend.
 
-Skills: <br>
+- 🌱 I’m currently learning PHP, SQL 
+- 📫 21ebulfez21@gmail.com
+- 📫  Whatsapp: +994772509297
 
+
+ 
+Skills:
+ <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,11 +33,6 @@ Skills: <br>
 
 
 
-- 🌱 I’m currently learning PHP, SQL 
-- 👯 I’m looking to collaborate on I want to work on new Front-End projects 
-- 🤔 I’m looking for help with SQL 
-- 💬 Ask me about Front-End 
-- 📫 How to reach me: Whatsapp: +994772509297 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ebulfez21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ebulfez-seferov-06742821a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ebulfez.seferov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCCwzdI4-W3TwcMytwwxh5Tw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abulfaz.site/)  
