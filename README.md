@@ -45,4 +45,4 @@ I am Abulfaz Safarov, I was born on February 2, 1994 in the village of Nehram, N
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ebulfez21)  
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-![snake gif](https://github.com/ebulfez21/ebulfez21/blob/output/github-contribution-grid-snake.gif)
+
