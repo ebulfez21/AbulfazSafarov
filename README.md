@@ -4,7 +4,7 @@
 
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Abulfaz+Safarov+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Abulfaz+Safarov+%e2%9c%a8;%f0%9f%93%9a+Frontend+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
@@ -13,7 +13,9 @@
 
 I am Abulfaz Safarov, I was born on February 2, 1994 in the village of Nehram, Nakhchivan Autonomous Republic. In 2015, I graduated from the Faculty of Finance of Tafakkur University. In 2022, I improved my manual control skills by studying QA (Quality Assurance) test. I further developed my skills by studying Frontend.
 
-Skills: HTML /  CSS / JS /  REACT /  Bootstrap / Sass /
+Skills: <br>
+
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
