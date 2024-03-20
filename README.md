@@ -1,5 +1,4 @@
-### Hi there 👋, Abulfaz Safarov
-#### Front-End Developer
+
 ![Front-End Developer](https://github.com/ebulfez21/AbulfazSafarov/blob/main/AbulfazImg.png)
 
 I am Abulfaz Safarov, I was born on February 2, 1994 in the village of Nehram, Nakhchivan Autonomous Republic. In 2015, I graduated from the Faculty of Finance of Tafakkur University. In 2022, I improved my manual control skills by studying QA (Quality Assurance) test. I further developed my skills by studying Frontend.
